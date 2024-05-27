@@ -1,5 +1,5 @@
 
-PROJECT TITLE: Morse Code Communication with Arduino.
+**PROJECT TITLE:** Morse Code Communication with Arduino.
 PURPOSE OF PROJECT: Displaying Morse code communication through LEDs.
 VERSION or DATE: 17th November 2023.
 AUTHORS: Rana Albedaiwi.
